@@ -1,0 +1,138 @@
+Algorithm: merge sort
+Running Time: 0 nanoseconds
+Ahmed 
+43254
+3.2
+Ali
+35414
+3.5
+Mariam
+69712
+3.7
+Mohamed Kamal
+97848
+2.2
+Omar
+85486
+3.3
+Sara Ahmed
+78697
+3.1
+Ziad 
+57841
+3.23
+Algorithm: Quick sort
+Running Time: 0 nanoseconds
+Ahmed 
+43254
+3.2
+Ali
+35414
+3.5
+Mariam
+69712
+3.7
+Mohamed Kamal
+97848
+2.2
+Omar
+85486
+3.3
+Sara Ahmed
+78697
+3.1
+Ziad 
+57841
+3.23
+Algorithm: Insertion sort
+Running Time: 0 nanoseconds
+Ahmed 
+43254
+3.2
+Ali
+35414
+3.5
+Mariam
+69712
+3.7
+Mohamed Kamal
+97848
+2.2
+Omar
+85486
+3.3
+Sara Ahmed
+78697
+3.1
+Ziad 
+57841
+3.23
+Algorithm: Selection sort
+Running Time: 0 nanoseconds
+Ahmed 
+43254
+3.2
+Ali
+35414
+3.5
+Mariam
+69712
+3.7
+Mohamed Kamal
+97848
+2.2
+Omar
+85486
+3.3
+Sara Ahmed
+78697
+3.1
+Ziad 
+57841
+3.23
+Algorithm: Shell sort
+Running Time: 0 nanoseconds
+Ahmed 
+43254
+3.2
+Ali
+35414
+3.5
+Mariam
+69712
+3.7
+Mohamed Kamal
+97848
+2.2
+Omar
+85486
+3.3
+Sara Ahmed
+78697
+3.1
+Ziad 
+57841
+3.23
+Algorithm: Bubble sort
+Running Time: 0 nanoseconds
+Ahmed 
+43254
+3.2
+Ali
+35414
+3.5
+Mariam
+69712
+3.7
+Mohamed Kamal
+97848
+2.2
+Omar
+85486
+3.3
+Sara Ahmed
+78697
+3.1
+Ziad 
+57841
+3.23
